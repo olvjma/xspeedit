@@ -14,16 +14,13 @@ Technologies: [Java](https://www.java.com/) - [Maven](https://maven.apache.org/)
 ```
 mvn clean install
 ```
-```
-java -jar target/xspeedit.jar
-```
-Saisir la chaine d'articles: ex 163841689525773
 
 
 ### Running ###
 ```
-java -jar target/robot.jar [articles]
+java -jar target/xspeedit.jar
 ```
+Saisir la chaine d'articles: ex 163841689525773
 
 ## Specifications ##
 
