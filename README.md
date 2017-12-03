@@ -6,7 +6,7 @@ XspeedIt
 * Maven 3
 * Git
 
-Technologies: [Java](https://www.java.com/) - [Maven](https://maven.apache.org/) - [JUnit](http://junit.org/) - [Git](https://git-scm.com/) - [Lombok] https://projectlombok.org/
+Technologies: [Java](https://www.java.com/) - [Maven](https://maven.apache.org/) - [JUnit](http://junit.org/) - [Git](https://git-scm.com/) - [Lombok] (https://projectlombok.org/)
 
 ## Running  ##
 
@@ -14,8 +14,9 @@ Technologies: [Java](https://www.java.com/) - [Maven](https://maven.apache.org/)
 ```
 mvn clean install
 ```
+```
 java -jar target/xspeedit.jar
-
+```
 Saisir la chaine d'articles: ex 163841689525773
 
 
