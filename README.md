@@ -6,7 +6,7 @@ XspeedIt
 * Maven 3
 * Git
 
-Technologies: [Java](https://www.java.com/) - [Maven](https://maven.apache.org/) - [JUnit](http://junit.org/) - [Git](https://git-scm.com/) - [Lombok] (https://projectlombok.org/)
+Technologies: [Java](https://www.java.com/) - [Maven](https://maven.apache.org/) - [JUnit](http://junit.org/) - [Git](https://git-scm.com/) - [Lombok](https://projectlombok.org/)
 
 ## Running  ##
 
